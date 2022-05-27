@@ -8,3 +8,7 @@ print("Hello World~~ I modify this---change to online---")
 
 # add something~
 print("This is my note")
+
+# online add new code here!
+for i in range(3):
+  print(i)
